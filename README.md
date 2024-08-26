@@ -4,7 +4,7 @@
 > **Figure 1:** Example of Bokeh Visualization
 (bokeh_photo.png)
 
-# The Importance of Data Visualization
+# The importance of data visualisation
 
 Data, often referred to as the "oil of the future," needs to be understood and explained clearly. Visualizing data through charts and graphs can make thousands of rows and columns of data much easier to comprehend, often turning a seemingly complex situation into something straightforward. This is where the concept of data visualization comes into play.
 
